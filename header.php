@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/CSS/style.css">
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Thecnology</h1>
+            <div class="login">
+                <form action="#">
+                    <input type="button" value="Sing In">
+                </form>
+            </div>
+        </div>
+        <div class="options">
+            <nav>
+                <ul class="ulOp">
+                    <li class="options">
+                        <a href="">
+                            HOME
+                        </a>
+                    </li>
+                    <li class="options">
+                    <a href="">
+                            HARDWARE
+                        </a>
+                    </li>
+                    <li class="options">
+                        <a href="">
+                            SOFT
+                        </a>
+                    </li>
+                    <li class="options">
+                        <a href="">
+                            SUPORT
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</body>
+</html>

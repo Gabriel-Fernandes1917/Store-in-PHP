@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*border: none;*/
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    margin-bottom: 3%;
+}
+
+header div{
+    background: grey;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header form input{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/*.options{
+    
+    
+}
+*/
+ul{    
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    
+    list-style: none;
+    padding: 5px;
+    margin-left: 10px;
+    background-color: lightgray;
+    border-radius: 10px;
+    
+}
+/*
+.ulOp{
+    display: flex;
+    
+}*/
+
+#ProductName{
+    border: auto;
+    
+}
