@@ -21,12 +21,12 @@
             <nav>
                 <ul class="ulOp">
                     <li class="options">
-                        <a href="">
+                        <a href="index.php">
                             HOME
                         </a>
                     </li>
                     <li class="options">
-                    <a href="">
+                    <a href="hardware.php">
                             HARDWARE
                         </a>
                     </li>

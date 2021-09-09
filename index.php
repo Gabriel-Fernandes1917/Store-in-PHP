@@ -1,5 +1,5 @@
 <html>
-    <?php include("header.php"); ?>
+    <?php include("header.php"); ?> <!-- componente-->
     <h1>Welcome !</h1>
     <div>
         <form action="#">
@@ -17,4 +17,5 @@
         
     </div>
     <?php include("actions/product.php"); ?>
+    <?php include("footer.php"); ?>
 </html>

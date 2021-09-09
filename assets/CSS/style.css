@@ -11,12 +11,16 @@ a{
     color: black;
 }
 
+html{
+    --TopandBottom:grey;
+}
+
 header{
     margin-bottom: 3%;
 }
 
 header div{
-    background: grey;
+    background: var(--TopandBottom);
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -55,4 +59,14 @@ li{
 #ProductName{
     border: auto;
     
+}
+
+
+footer{
+    
+
+}
+
+footer div{
+   
 }
