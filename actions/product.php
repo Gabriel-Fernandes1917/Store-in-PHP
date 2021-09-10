@@ -3,6 +3,10 @@
 <?php
     $name = $_GET["name"];
     $price = $_GET["price"];
+
+    $conecction = mysqli_connect('localhost', 'root', '','store');
+
+    $query = "insert into "
 ?>
 
 
